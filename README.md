@@ -1,5 +1,6 @@
 # Easy21 Reinforcement Learning 
-Implementation of several reinforcement learning algorithms according to the assignment of the UCL RL Course by David-Silver. The assignment can be found <a href="https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf">here</a>.
+Implementation of several reinforcement learning algorithms according to the assignment of the UCL RL Course by David-Silver. The assignment can be found <a href="https://www.davidsilver.uk/wp-content/uploads/2020/03/Easy21-Johannes.pdf">here</a>. 
+A Kaggle Notebook implementation can be found <a href="https://www.kaggle.com/woutgijsbers/ucl-rl-course-by-david-silver-assignment?scriptVersionId=37247236">here</a>. 
 
 # Monte-Carlo Control in Easy21
 After 10,000,000 episodes, the following value function was obtained:
